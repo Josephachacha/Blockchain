@@ -1,0 +1,2 @@
+Basic text Editor
+nmp //Node js running on your computer.

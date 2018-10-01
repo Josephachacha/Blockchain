@@ -1,4 +1,6 @@
 
+//Sample code to demonstrate constrator fucntions in javascript as we us constractor functions alot in the project.
+
 //This is a constructor function
 function User(FirstName, LastName, age, gender) {
     this.FirstName = FirstName;
