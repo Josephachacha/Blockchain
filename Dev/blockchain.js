@@ -4,7 +4,7 @@ function Blockchain(){
 
 }
 
-//If we were using a class insead we would write it this way.
+//If we were using a class instead we would write it this way.
 
 /*
 class Blockchain {
